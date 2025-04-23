@@ -23,7 +23,7 @@ Os exemplos incluem:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [<URL_DO_SEU_REPOSITORIO>](https://github.com/matheus896/mcp-tool-crewai)
+    git clone (https://github.com/matheus896/mcp-tool-crewai)
     ```
 
 2.  **Crie e ative um ambiente virtual:**
